@@ -2,6 +2,7 @@ name: Andy personal box
 favicon: null
 layout_spectrum: 0.6371682037133723
 typography_spectrum: 0.6338299615308642
+title: My personal space
 cta:
   domain: null
   bucket: null
