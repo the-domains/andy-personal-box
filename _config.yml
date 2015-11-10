@@ -1,0 +1,23 @@
+name: Andy personal box
+favicon: null
+layout_spectrum: 0.6371682037133723
+typography_spectrum: 0.6338299615308642
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9749268118757755
+  lightness: 0.4129556172993034
+  saturation: 0.6226460260804743
+  rhythmicContrast: 0.7436194298788905
+purpose: []
