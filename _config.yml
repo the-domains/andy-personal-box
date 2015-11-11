@@ -1,6 +1,6 @@
 name: Andy personal box
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.00334
 typography_spectrum: 0.87296
 title: My personal space
 cta:
@@ -22,7 +22,7 @@ color:
     - '#626b5b'
     - '#142b2f'
     - '#010204'
-  brandStrength: 0.5
+  brandStrength: 0.375
   lightness: 0.375
   saturation: 0.6875
   rhythmicContrast: 0.5
