@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[My personal space]]></title>
         <description><![CDATA[My personal space]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andy-personal-box/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 17:41:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 Nov 2015 09:48:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andy-personal-box/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/12241266_10153465258889442_937889878075046415_n.jpg?oh=2679a80a880acab47be2a1e0e9ed9856&oe=56C08E3B">]]></description>
+            <link>https://thegrid.ai/andy-personal-box/017b333f-b6df-4c93-9331-52aef65b62f5/index.html</link>
+            <guid isPermaLink="false">017b333f-b6df-4c93-9331-52aef65b62f5</guid>
+            <pubDate>Wed, 11 Nov 2015 09:48:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Le montagne hanno tanto da dire...a chi è pronto ad ascoltarsi]]></title>
             <description><![CDATA[<article><h1>Le montagne hanno tanto da dire...a chi è pronto ad ascoltarsi</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca8319a4-c48d-482c-ad9f-efee76c10b34.jpg"></article>]]></description>
-            <link>undefinedle-montagne-hanno-tanto-da-direa-chi-e-pronto-ad-ascoltar/index.html</link>
+            <link>https://thegrid.ai/andy-personal-box/le-montagne-hanno-tanto-da-direa-chi-e-pronto-ad-ascoltar/index.html</link>
             <guid isPermaLink="false">62095af7-50d2-4885-a9a8-3f031af5ca1e</guid>
             <pubDate>Tue, 10 Nov 2015 17:40:20 GMT</pubDate>
         </item>
